@@ -226,6 +226,8 @@ body.menu-open{ overflow:hidden; }
 .team-card{ background:var(--paper); }
 .team-card .figure{ position:relative; aspect-ratio:4/5; overflow:hidden; margin-bottom:var(--sp-2); }
 .team-card .figure img{ position:absolute; inset:0; width:100%; height:100%; object-fit:cover; filter:grayscale(.15); transition:transform .6s cubic-bezier(.16,1,.3,1); }
+.team-card .figure img.op-flaviana{ object-position:30% 25%; }
+.team-card .figure img.op-washington{ object-position:76% 25%; }
 .team-card:hover .figure img{ transform:scale(1.04); }
 .team-card h4{ margin-bottom:.1em; }
 .team-card .role{ font-family:var(--mono); font-size:.75rem; letter-spacing:.06em; text-transform:uppercase; color:var(--gold); margin-bottom:.6em; display:block; }
