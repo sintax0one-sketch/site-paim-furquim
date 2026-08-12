@@ -1,0 +1,8 @@
+{
+  "name": "Paim & Furquim Contabilidade",
+  "short_name": "Paim & Furquim",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F7F4ED",
+  "theme_color": "#0F2036"
+}
